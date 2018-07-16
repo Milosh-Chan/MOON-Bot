@@ -50,7 +50,7 @@
 ### Bussiness: milosristic@protonmail.com
 ### [MoonLife Studios Site](https://moonlifestudios.space)
 ### [Discord Server](https://discord.gg/7PwtjDg)
-(<iframe src="https://discordapp.com/widget?id=427165002223452171&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=427165002223452171&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ### Discord Tag: Milosh#6232
 ![Image](https://i.imgur.com/Y8EA7Xg.png)
