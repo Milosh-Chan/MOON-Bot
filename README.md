@@ -41,9 +41,9 @@
 ![Image](https://i.imgur.com/6kEhAve.jpg)
 
 # Required:
-### Node.js *(Node package manger comes with it)*
+### Node.js *(Node package manger comes with it)*,
 ### IDE for coding e.g: [Visual Studio Code](https://code.visualstudio.com/),[Atom](https://atom.io/),[Sublime Text](https://www.sublimetext.com).
-# Required modules to install using npm(NodePackageManager):
+# Required modules:
 ### "enmap", "fs", "infobox-parser", "moment", "moment-duration-format", "ms", "opusscript", "pornhub", "pornhub-api", "pornsearch", "random-puppy", "request-promise", "request-promise-native", "urban.js"
 # Contact me:
 ### Contact e-mail: contact@moonlifestudios.space
