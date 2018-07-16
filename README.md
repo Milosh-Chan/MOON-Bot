@@ -36,6 +36,8 @@
 | `urban` | Searches urban dictionary and sends back info about definition you were looking for | /urban [Definition] |
 | `weather` | Shows weather for place you typed in. | /weather [Country, Town] |
 | `video` | Finds a video from youtube and sends URL Name and Description to channel. | /video [Video name] |
+
+
 # Setup your bot tutorial
 [Click on this link for YouTube tutorial I made on setting up basic Discord Bot!](https://www.youtube.com/watch?v=rBU7iqqQN6k&t=3s)
 ![Image](https://i.imgur.com/6kEhAve.jpg)
