@@ -1,6 +1,6 @@
 ## MOON Bot Github page
 
-MOON is Discord bot I made with very little knowledge of Javascript and NODE.js. It has a lot of original features and cool enterteining commands as well some basic commands that in my opinion every Discord bot should have.
+### MOON is Discord bot I made with very little knowledge of Javascript and NODE.js. It has a lot of original features and cool enterteining commands as well some basic commands that in my opinion every Discord bot should have.
 ![Image](https://i.imgur.com/NO2tslm.png)
 ### MOON's commands
 # These are some of the current commands MOON is offering:
