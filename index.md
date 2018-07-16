@@ -3,7 +3,7 @@
 MOON is Discord bot I made with very little knowledge of Javascript and NODE.js. It has a lot of original features and cool enterteining commands as well some basic commands that in my opinion every Discord bot should have.
 
 ### MOON's commands
-![Image](https://avatars0.githubusercontent.com/u/28782388?s=460&v=4)
+![Image](https://i.imgur.com/NO2tslm.png)
 # These are some of the current commands MOON is offering:
 ### Keep in mind that more commands will be added as I progress.
 
@@ -33,4 +33,14 @@ MOON is Discord bot I made with very little knowledge of Javascript and NODE.js.
 | `urban` | Searches urban dictionary and sends back info about definition you were looking for | /urban [Definition] |
 | `weather` | Shows weather for place you typed in. | /weather [Country, Town] |
 | `video` | Finds a video from youtube and sends URL Name and Description to channel. | /video [Video name] |
+
+# Contact me:
+### Contact e-mail: contact@moonlifestudios.space
+### Bussiness: milosristic@protonmail.com
+### [MoonLife Studios Site](https://moonlifestudios.space)
+### [Discord Server](https://discord.gg/7PwtjDg)
+### Discord Tag: Milosh#6232
+![Image](https://i.imgur.com/Y8EA7Xg.png)
+
+
 
