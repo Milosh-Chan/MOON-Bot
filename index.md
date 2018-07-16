@@ -6,7 +6,7 @@ MOON is Discord bot I made with very little knowledge of Javascript and NODE.js.
 ![Image](https://avatars0.githubusercontent.com/u/28782388?s=460&v=4)
 # These are some of the current commands MOON is offering:
 ### Keep in mind that more commands will be added as I progress.
-```
+
 | Command | Description | Usage |
 | --- | --- | --- |
 | `8ball` | 8Ball is a command used for fortune-telling or seeking advice. | /8ball [Your question] |
@@ -33,4 +33,4 @@ MOON is Discord bot I made with very little knowledge of Javascript and NODE.js.
 | `urban` | Searches urban dictionary and sends back info about definition you were looking for | /urban [Definition] |
 | `weather` | Shows weather for place you typed in. | /weather [Country, Town] |
 | `video` | Finds a video from youtube and sends URL Name and Description to channel. | /video [Video name] |
-```
+
