@@ -4,6 +4,8 @@
 
 ![Image](https://i.imgur.com/NO2tslm.png)
 
+# Click [HERE](https://discordapp.com/oauth2/authorize?client_id=437374417946017815&scope=bot&permissions=8) to invite MOON to your server!
+
 # These are some of the current commands MOON is offering:
 
 ### Keep in mind that more commands will be added as I progress.
