@@ -36,7 +36,15 @@
 | `urban` | Searches urban dictionary and sends back info about definition you were looking for | /urban [Definition] |
 | `weather` | Shows weather for place you typed in. | /weather [Country, Town] |
 | `video` | Finds a video from youtube and sends URL Name and Description to channel. | /video [Video name] |
+# Setup your bot tutorial
+[YouTube Tutorial](https://www.youtube.com/watch?v=rBU7iqqQN6k&t=3s)
+![Image](https://i.imgur.com/6kEhAve.jpg)
 
+# Required:
+### Node.js *(Node package manger comes with it)*
+### IDE for coding e.g: [Visual Studio Code](https://code.visualstudio.com/),[Atom](https://atom.io/),[Sublime Text](https://www.sublimetext.com).
+# Required modules to install using npm(NodePackageManager):
+### "enmap", "fs", "infobox-parser", "moment", "moment-duration-format", "ms", "opusscript", "pornhub", "pornhub-api", "pornsearch", "random-puppy", "request-promise", "request-promise-native", "urban.js"
 # Contact me:
 ### Contact e-mail: contact@moonlifestudios.space
 ### Bussiness: milosristic@protonmail.com
